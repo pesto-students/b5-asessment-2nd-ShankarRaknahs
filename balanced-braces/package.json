@@ -1,0 +1,14 @@
+{
+  "name": "balanced-braces",
+  "version": "1.0.0",
+  "description": "Determine if a string contains matching Braces, Brackets, and Parentheses. Additionally all Braces, Brackets, and Parentheses must be nested correctly for JavaScript code. All other characters in the string can be ignored.",
+  "main": "balancedBraces.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}

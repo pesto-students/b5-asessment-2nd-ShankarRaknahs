@@ -1,0 +1,14 @@
+{
+  "name": "array-cube-root-to-json",
+  "version": "1.0.0",
+  "description": "Given an array, find cube root of every element of the array and return it as a json object (i.e. normal JavaScript object, not a string)",
+  "main": "arrayCubeRootToJson.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
